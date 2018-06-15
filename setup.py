@@ -33,7 +33,7 @@ install_requires = [
     # Babel is used for currency formatting
     'Babel>=1.0,<3.0',
     # For converting non-ASCII to ASCII when creating slugs
-    'Unidecode>=1.0,<1.1',
+    'Unidecode>=0.4',
     # For manipulating search URLs
     'purl>=0.7',
     # For phone number field
